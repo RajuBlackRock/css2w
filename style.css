@@ -1,0 +1,30 @@
+.btn {
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+
+
+    padding: 10px;
+    margin-left: 15px;
+}
+
+
+.bdt {
+    color: black;
+    background-color: aqua;
+
+    padding: 10px;
+    margin-left: 15px;
+    border-radius: 5px;
+
+}
+
+.h1 {
+    margin-bottom: 10px;
+    padding: 10px;
+    color: bisque;
+    background-color: blueviolet;
+
+    border-radius: 10px;
+    width: 20%;
+}
